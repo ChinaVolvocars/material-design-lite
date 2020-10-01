@@ -14,7 +14,7 @@ static content websites. It doesn't rely on any JavaScript frameworks or
 libraries. Optimized for cross-device use, gracefully degrades in older
 browsers, and offers an experience that is accessible from the get-go.
 
-## Want to contribute?
+## Want to contribute??
 
 If you found a bug, have any questions or want to contribute. Follow our
 [guidelines](https://github.com/google/material-design-lite/blob/master/CONTRIBUTING.md),
@@ -59,7 +59,7 @@ Supported versioned browsers:
 
 ### Download / Clone
 
-Clone the repo using Git:
+Clone the repo using Git :
 
 ```bash
 git clone https://github.com/google/material-design-lite.git
@@ -82,7 +82,7 @@ git reset --hard
 > Remember, the master branch is considered unstable. Do not use this in
 production. Use a tagged state of the repository, npm, or bower for stability!
 
-## Feature requests
+## Feature Requests
 
 If you find MDL doesn't contain a particular component you think would be
 useful, please check the issue tracker in case work has already started on it.
